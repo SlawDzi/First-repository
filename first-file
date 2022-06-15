@@ -1,18 +1,1 @@
-<!DOCTYPE HTML>
-<html>
-
-<body>
-
-  <p>Kod przed skryptem...</p>
-
-*!*
-  <script>
-    alert( 'Witaj, świecie!' );
-  </script>
-*/!*
-
-  <p>... i za skryptem.</p>
-
-</body>
-
-</html>
+print "hello world"
